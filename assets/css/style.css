@@ -70,7 +70,7 @@ iframe {
   bottom: 0;
   width: 300px;
   transition: all ease-in-out 0.5s;
-  z-index: 9999;
+  z-index: 5;
   transition: all 0.5s;
   padding: 0 15px;
   background: #000446;
@@ -602,4 +602,12 @@ section {
   overflow: hidden;
   transition: max-height 0.2s ease-out;
   background-color: #f1f1f1;
+}
+
+#lightgallery .item {
+  margin-bottom: 30px; 
+}
+
+#lightgallery2 .item {
+  margin-bottom: 30px; 
 }
