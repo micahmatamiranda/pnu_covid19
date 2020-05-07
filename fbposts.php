@@ -7,6 +7,16 @@
 
         <div class="row">
           <div class="col-lg-12">
+                <button class="collapsible">May 4, 2020</button>
+                <div class="content">
+                    <br>
+                    <p>For the second time, the Bureau of Quarantine (BOQ) received from PNU 20 PPEs/Protective Body Suits for their Frontliners. This time, Ospital ng Sampaloc also received 20 PPEs. The PPEs were once again donated by IVE-14 BSE Social Science, Batch 1992.</p>
+                    <div class="row">
+                        <a href="https://www.facebook.com/pnusystem/posts/3433901753292090?__xts__[0]=68.ARDygzKHb9BsBdEGOd_xCX7Os9N7kkjxQKRq_cPoxibzLxtSNLGPPgnXmAvX37z7LcZQUOo7zat8PAiHcgXya1rKZ5a7nuB0-F1Yw3Rp6HRsl4OZa-mwYRW8AP8f7JCXYEKBMhpbXAultdl-4651Ohj-KsdqHcf9BKoK_Xk0fUKPWQpcyhGiy82uGmTz0fsUtBACaIgwxqcO-xbwTyCtXWSbU2umjgD-5qh3GajSNC_KFUVLoYWMYW4YU3R6_c--2po7lUimhcjVhJNHBASue4BZHw5OzNlKDAdLbktpA4naho7hNHIxP5X7rkR2wdvD9kFf9PIo126_cHibVI2pgYtIfQ&__tn__=-R" target="_blank"><img src="assets/fbposts/05042020/95259559_3433901329958799_5307103144193294336_n.jpg" alt="IMage" class="img-fluid"></a>
+                        <a href="https://www.facebook.com/pnusystem/posts/3433901753292090?__xts__[0]=68.ARDygzKHb9BsBdEGOd_xCX7Os9N7kkjxQKRq_cPoxibzLxtSNLGPPgnXmAvX37z7LcZQUOo7zat8PAiHcgXya1rKZ5a7nuB0-F1Yw3Rp6HRsl4OZa-mwYRW8AP8f7JCXYEKBMhpbXAultdl-4651Ohj-KsdqHcf9BKoK_Xk0fUKPWQpcyhGiy82uGmTz0fsUtBACaIgwxqcO-xbwTyCtXWSbU2umjgD-5qh3GajSNC_KFUVLoYWMYW4YU3R6_c--2po7lUimhcjVhJNHBASue4BZHw5OzNlKDAdLbktpA4naho7hNHIxP5X7rkR2wdvD9kFf9PIo126_cHibVI2pgYtIfQ&__tn__=-R" target="_blank"><img src="assets/fbposts/05042020/95662968_3433901313292134_7457678386962366464_n.jpg" alt="IMage" class="img-fluid"></a>
+                    </div>
+                </div>
+
                 <button class="collapsible">April 30, 2020</button>
                 <div class="content">
                     <br>
@@ -39,6 +49,25 @@
                     </div>
                 </div>
 
+                <button class="collapsible">April 17, 2020</button>
+                <div class="content">
+                    <br>
+                    <p>For the second time, PNU students who were stranded in their dormitories and boarding houses in Manila received food packs to sustain them during the extended ECQ. Thank you very much to Every Nation Campus Malate and Prof. Flordeliz L. Abando of Far Eastern University (FEU) for their donations.</p>
+                    <p>Click the image below to view more images from the facebook post.</p>
+                    <div class="row">
+                        <a href="https://www.facebook.com/pnusystem/posts/3389919364356996?__xts__[0]=68.ARCh1Uj2BwdVrOEJEGJjz3614Yl9OBP49P1FyJH6H8RV84fbUpGVRKTTkFQpcGgRJlJ73X02cKk3C1tT4eiSMIt7na1vo1Xwekk49IN8tty8dbS9gw7LVWPjmO6Cc4yQEyMxwCI99rTjGaWXODi8I3QvRPygPjnsCcHq5kI49_z2o29eP0ox1IM1joTfcxjqPIE8nd-sAMUjcRyA_TTyfqMweDNXtD6PTTkZL8e1LLUoLH_p_D0aKO_Q-KqP8rw-4rLf7KVUracAfZdNxsyTzRF775NzXeQoQfqIlYTCZ3weaoorFL3FI361kxrXTsQpTAJmLy28F2XiH2tOuPh22kVTEw&__tn__=-R" target="_blank"><img src="assets/fbposts/04172020/93303554_3389918257690440_685281350839697408_o.jpg" alt="IMage" class="img-fluid"></a>
+                    </div>
+                </div>
+                
+                <button class="collapsible">April 14, 2020</button>
+                <div class="content">
+                    <br>
+                    <p>Thank you PNU Mindanao for launching Batok sa COVID-19 initiative.</p>
+                    <div class="row">
+                        <a href="https://www.facebook.com/pnusystem/photos/a.1750757178273231/3381676575181275/?type=3&theater" target="_blank"><img src="assets/fbposts/04142020/92818348_3381676578514608_3473839483957280768_n.jpg" alt="IMage" class="img-fluid"></a>
+                    </div>
+                </div>
+
                 <button class="collapsible">April 8, 2020</button>
                 <div class="content">
                     <br>
@@ -57,6 +86,31 @@
                         <a href="https://www.facebook.com/pnusystem/photos/a.252576628091301/3366877759994490/?type=3&__xts__%5B0%5D=68.ARC_Sm-EufOs6KbbCuHcXzi3haC8IGhqG3Hg_pB6eE079rsIuqtxznmx65Su5m5R3dzExZmAvs6uhLPDCxCtMP1cmJ3dDteQ_MzJX_5C6HMNB_gWd_Oz5JoCm0AtuVFooJpdH6KY5x4s_0jmZfkWTyVF-Bl8qsij2qBZwluf3TbPzmx5TVQDOcQUV_k348YdKbsl-u4BtJi0DmTodPPrHokn3xtAdSjZMbKFCM-ob6B_VZ52mF61BKKahghvjKtEqLDUiWidDQmr4E5UVhz4XbehqZQyky74dlGw6Q_68QsG5YxvnrVoRaoPFbJ11TrgPN0HCM5dBn45021RlOOQXmiftw&__tn__=-R" target="_blank"><img src="assets/fbposts/04082020/92438356_3366877763327823_7480677558875324416_o.jpg" alt="IMage" class="img-fluid"></a>
                     </div>
                 </div>
+
+                <button class="collapsible">March 29, 2020</button>
+                <div class="content">
+                    <br>
+                    <p>With the aim of helping the community during the COVID-19 pandemic, the Philippine Normal University Visayas has produced and distributed fabricated face shields to the health frontliners of the Province of Negros Occidental. The beneficiaries are: (1) Corazon Locsin Memorial Regional Hospital, Bacolod City (140); (2) Our Lady of Mercy Hospital, Bacolod City (20); (3) Cadiz City District Hospital/St. Anne Hospital (50); and (4) Cadiz City Emergency Clinic (20). Next week, PNU Visayas is targeting the distribution of 50 face shields to the PNP personnel of Cadiz City. </p>
+                    <p>Sincerest thanks to the faculty members and alumni who volunteered to make the face shields.</p>
+                    <p>In addition, the Faculty Association and the DRRM Unit of the Campus also distributed relief goods to the vulnerable population of its partner community: Brgy. Zone 1 and Brgy. Daga in Cadiz City.</p>
+                    <p>Mabuhay ka, PNU Visayas! Padayon!</p>
+                    <p>Click the image below to view more images from the facebook post.</p>
+                    <div class="row">
+                        <a href="https://www.facebook.com/pnusystem/posts/3343163455699254?__xts__[0]=68.ARDUl0H8s3vM6O-6-VXJ_yv4c-AuGwKN41r-Adf_IOM3FEoA5uy6LJ3SqnLfgUk4u3bzPm1ocZsdSxvuQ_LDanLStsRb65q5ccALYr_TTxNZ1gvlbrbZXd01WhbAbe6LMtRLKV-kfEY3Kz5GPvajt2zT7c4s0Rd2SANHJJCWqA_pkLD_bjr9CTRNVCh3Ed0PzDZIL5k6FpFMUORBTS4uCcbKoGhTN6UZxnXiNbc-lDCDXsZ1h9v0-Gv6XNe8JaEJ9-vyn4q696JGEy4_W91xqJ9Zu0hNG6Ev-g2In-3k_6zu2KgPpPnw80smYC9aIsMt6WVEfSDZhVwwI5U1XYcUH8HiGQ&__tn__=-R" target="_blank"><img src="assets/fbposts/03292020/91006751_3343163105699289_5042768853679996928_n.jpg" alt="IMage" class="img-fluid"></a>
+                    </div>
+                </div>
+                
+                <button class="collapsible">March 25, 2020</button>
+                <div class="content">
+                    <br>
+                    <p>PNU distributed food and hygiene kits to students who were stranded in their dorms during the onset of the enhanced community quarantine. Thank you to OSASS, FMSS, HRMDS, FMS, and the PNU USC for facilitating these efforts.</p>
+                    <p>Click the image below to view more images from the facebook post.</p>
+                    <div class="row">
+                        <a href="https://www.facebook.com/pnusystem/posts/3333393386676261?__tn__=-R" target="_blank"><img src="assets/fbposts/03252020/90474280_3333393026676297_503997627453407232_n.jpg" alt="IMage" class="img-fluid"></a>
+                    </div>
+                </div>
+
+
           </div>
         </div>
 

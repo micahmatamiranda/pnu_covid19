@@ -8,6 +8,7 @@
             <li><a href="https://ncovtracker.doh.gov.ph/" target="_blank">Official DOH Patient Tracker</a></li>
             <li><a href="https://t.me/phcoronavirus" target="_blank">Telegram Channel that tracks COVID-19 news within PH</a></li>
             <li><a href="https://www.rappler.com/move-ph/254532-help-donation-drive-medical-supplies-healthcare-workers-coronavirus" target="_blank">List of places you can donate to or volunteer to help</a></li>
+            <li><a href="https://www.pnunl.edu.ph/pnunls-actions-related-to-covid-19/" target="_blank">PNU North Luzon's Actions Related to COVID-19.</a> Please visit the website's <a href="http://www.pnunl.edu.ph/category/tp-strs/" target="_blank">top stories </a> and <a href="http://www.pnunl.edu.ph/category/evnts/" target="_blank">events </a> as well for the latest updates.</li>
           </ul>
           <p><strong>DOH COVID-19 HOTLINES: </strong>02-894-COVID (02-894-26843) and 1555 in partnership with the National Emergency Hotline of the DILG, and PLDT and its wireless subsidiary Smart Communications Inc.</p>
           <br>

@@ -1,14 +1,8 @@
-1. added folder "emailblast" under assets
-2. added folder "emailblast" under assets/img
-3. added folder "fbposts" under assets
-4. added 2 files to advisories folder
-
-    - index.php
-    - about.php
-    - advisory.php
-    - covid_watch.php
-    - emailblast.php
-    - facts.php
-    - fbposts.php
-    - help.php
-    - messages.php
+1. new folders under fbposts
+    - 03252020
+    - 03292020
+    - 04142020
+    - 04172020
+    - 05042020
+2. help.php
+3. fbposts.php
