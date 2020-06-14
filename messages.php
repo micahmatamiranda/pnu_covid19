@@ -7,6 +7,22 @@
 
         <div class="row">
           <div class="col-lg-12">
+            <button class="collapsible">PNU Guidelines on the Prevention and Control of the Spread of COVID-19 on Campus during General Community Quarantine (GCQ) (May 28, 2020)</button>
+            <div class="content">
+              <br>
+              <p>Dear PNU Community,</p>
+              <p>This is to forward University Memorandum No. 112, series of 2020, which issues the PNU Guidelines on the Prevention and Control of the Spread of COVID-19 on Campus during General Community Quarantine (GCQ).</p>
+              <p>For your information.</p>
+              <iframe id="052820201" src="assets/memos/05282020/PNU_UM_112_2020.pdf" frameborder="0" style="border:0; width: 100%; height: 500px;" allowfullscreen></iframe>
+            </div>
+            <button class="collapsible">PNU Alternative Work Arrangements for University Officials and Administrative Employees during GCQ (May 26, 2020)</button>
+            <div class="content">
+              <br>
+              <p>Dear PNU Community,</p>
+              <p>This is to forward University Memorandum No. 108, series of 2020, issuing the Guidelines on Alternative Work Arrangements for University Officials and Administrative Employees during the General Community Quarantine (GCQ).</p>
+              <p>For your information.</p>
+              <iframe id="052620201" src="assets/memos/05262020/PNU_UM_108_2020.pdf" frameborder="0" style="border:0; width: 100%; height: 500px;" allowfullscreen></iframe>
+            </div>
             <button class="collapsible">Updates on Academic and Administrative Matters (April 20, 2020)</button>
             <div class="content">
               <br>
