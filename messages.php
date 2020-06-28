@@ -10,9 +10,6 @@
             <button class="collapsible">Temporary Suspension of the Skeleton Workforce (June 26, 2020)</button>
             <div class="content">
               <br>
-              <p>Dear PNU Community,</p>
-              <p>This is to forward University Memorandum No. 112, series of 2020, which issues the PNU Guidelines on the Prevention and Control of the Spread of COVID-19 on Campus during General Community Quarantine (GCQ).</p>
-              <p>For your information.</p>
               <iframe id="062620201" src="assets/memos/06262020/PNU_UM_135_2020.pdf" frameborder="0" style="border:0; width: 100%; height: 500px;" allowfullscreen></iframe>
             </div>
             <button class="collapsible">PNU Guidelines on the Prevention and Control of the Spread of COVID-19 on Campus during General Community Quarantine (GCQ) (May 28, 2020)</button>
