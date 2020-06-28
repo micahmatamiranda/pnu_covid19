@@ -1,5 +1,4 @@
-June 14, 2020
+June 28, 2020
 1. new folders under memos
-    - 05262020
-    - 05282020
+    - 06262020
 2. updated messages.php
