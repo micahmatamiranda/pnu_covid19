@@ -2,3 +2,7 @@ June 28, 2020
 1. new folders under memos
     - 06262020
 2. updated messages.php
+
+July 13, 2020
+1. public advisory 11 added to assets/advisories
+2. updated advisory.php
