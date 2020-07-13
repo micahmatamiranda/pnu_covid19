@@ -16,6 +16,7 @@
           <div class="item"><img src="assets/advisories/PUBLIC_ADVISORY_8.png"></div>
           <div class="item"><img src="assets/advisories/PUBLIC_ADVISORY_9.png"></div>
           <div class="item"><img src="assets/advisories/PUBLIC_ADVISORY_10.png"></div>
+          <div class="item"><img src="assets/advisories/PUBLIC_ADVISORY_11.png"></div>
         </div>
 
       </div>
